@@ -1,0 +1,11 @@
+ID,OVERTIME (hour),BONUS,FEES,TAX,LEAVE,POSITION,DEPARTMENT,GROUP,ACHIEVEMENTS,BLAME,SOCIAL BENEFITS
+1,0,0,0,0,0,manager,r&d,GERMANY,1,0,0
+2,18,50,0,0,2,developer,r&d,GERMANY,1,1,55
+3,2,0,10,0,4,developer,r&d,GERMANY,0,0,44
+4,4,0,40,40,6,assistant,r&d,GERMANY,0,0,88
+5,0,0,0,0,0,director,rh,GERMANY,4,1,52
+6,0,20,0,0,5,assistant,rh,GERMANY,5,2,10
+7,4,10,70,30,2,designer,design,GERMANY,8,3,60
+8,8,0,23,0,7,designer,design,GERMANY,2,1,20
+9,16,50,44,0,10,assistant,design,GERMANY,4,4,10
+10,1,0,0,0,0,manager,design,GERMANY,0,0,0
